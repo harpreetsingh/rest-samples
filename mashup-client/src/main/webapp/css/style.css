@@ -1,0 +1,28 @@
+/* 
+    Document   : style
+    Created on : Jul 14, 2012, 5:43:32 PM
+    Author     : harpreet
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+formTextField {
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        width: 440px;    
+}
+
+formTextArea {
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        width: 440px;    
+}
+
+content {
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+}
